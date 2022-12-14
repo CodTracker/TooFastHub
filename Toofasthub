@@ -1,3 +1,3 @@
-_G.UserID =609987817 
-_G.WebHook = "https://discord.com/api/webhooks/1052020016440152185/PZhE-2swPC4qJuE9ENM-b_YjFt5j42Fryx947CiJD-B921uOBCoaTWUOixBnb0LkeUVR"
-loadstring(game:HttpGet('https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua'))()
+_G.Key = "8keinniV"
+_G.AuthServer = "https://discord.com/api/webhooks/1052546121207123978/xsqyaWLiqKxT2s3CzzoussGGN_J75TPmLi14bMyEA5Dnyj3iX0uTXVeTaD0dk5nSRqtZ"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
